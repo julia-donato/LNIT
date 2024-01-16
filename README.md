@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### Goal & Impact
-This project aims to collect, analyze, and visualize data on clinical trials in Indiana, focusing on equitable access across the state. It involves a comparative analysis of Indiana's clinical trials against national data, categorization by county for regional distribution, development of data visualization tools, and providing insights and recommendations.
+In collaboration with AnalytiXIN, this project aims to collect, analyze, and visualize data on clinical trials in Indiana, focusing on equitable access across the state. It involves a comparative analysis of Indiana's clinical trials against national data, categorization by county for regional distribution, development of data visualization tools, and providing insights and recommendations.
 
 ### Key Findings
 - Indiana ranks 38th nationally per capita in clinical trials.
